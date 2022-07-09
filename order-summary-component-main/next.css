@@ -1,0 +1,183 @@
+/* Desktop - 1 (frame) */{
+width: 1440px;
+height: 1024px;
+
+background: #dee6ff;}
+
+/* Rectangle 2 (rectangle) */{
+width: 557px;
+height: 860px;
+
+background: #ffffff;
+
+border-radius: 15px;
+
+box-shadow: 0px 4px 4px rgba(30, 31, 205, 0.25),
+4px 4px 4px rgba(30, 31, 205, 0.25);}
+
+/* hero imaga (group) */{
+width: 557px;
+height: 233px;}
+
+/* b (group) */{
+width: 557px;
+height: 233px;}
+
+/* Group (group) */{
+width: 451px;
+height: 233px;}
+
+/* Order Summary (text) */{
+width: 233px;
+height: 36px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #222121;}
+
+/* You can now listen to millions of songs, audiobooks, and podcasts on any device anywhere you like! (text) */{
+width: 483px;
+height: 72px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 72px;
+text-align: center;
+
+color: #595858;}
+
+/* annual box (rectangle) */{
+width: 483px;
+height: 128px;
+
+background: #f3f0f0;
+
+border-radius: 9px;}
+
+/* music icon (group) */{
+width: 80px;
+height: 80px;}
+
+/* Annual Plan (text) */{
+width: 146px;
+height: 30px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #272626;}
+
+/* Change (text) */{
+width: 77px;
+height: 24px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #1e1fcd;}
+
+/* $59.99/year (text) */{
+width: 153px;
+height: 30px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #807c7c;}
+
+/* Cancel Order (text) */{
+width: 162px;
+height: 30px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #807c7c;}
+
+/* Line 1 (line) */{
+width: 77px;
+height: 0px;
+
+border: 1px solid #1e1fcd;}
+
+/* Default (instance) */{
+width: 483px;
+height: 90px;
+
+box-shadow: 0px 5px 10px rgba(30, 31, 205, 0.5),
+0px 4px 4px rgba(0, 0, 0, 0.25),
+0px 4px 4px rgba(0, 0, 0, 0.25),
+0px 4px 4px #1e1fcd;}
+
+/* Rectangle 1 (rectangle) */{
+width: 483px;
+height: 90px;
+
+background: #1e1fcd;
+
+border-radius: 15px;
+
+box-shadow: 0px 4px 4px rgba(30, 31, 205, 0.25),
+0px 4px 4px rgba(0, 0, 0, 0.25);}
+
+/* Proceed To Payment (text) */{
+width: 201px;
+height: 24px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #ffffff;}
+
+/* Challenged by Frontend Mentor. (text) */{
+width: 392px;
+height: 30px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;}
+
+/* Coded by Egwu Francisca Osinachi. (text) */{
+width: 437px;
+height: 30px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;}
+
+
+ 
+
